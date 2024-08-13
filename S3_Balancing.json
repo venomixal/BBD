@@ -1,11 +1,11 @@
 {
-    "Name": "",
-    "Version": 1723561018,
+    "Name": "BloodRush Season 3",
+    "Version": 1723561801,
     "MaxPerkRepetition": 1,
     "GlobalNotes": "",
     "Tiers": [
         {
-            "Name": "Universal Tier",
+            "Name": "General",
             "SurvivorIndvPerkBans": [
                 "0",
                 "2",
@@ -340,7 +340,7 @@
         {
             "Name": "The Trapper",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -388,7 +388,7 @@
         {
             "Name": "The Wraith",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -438,17 +438,24 @@
             "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0
+                "7"
             ],
             "BalanceTiers": [
-                0
+                0,
+                1
             ],
             "SurvivorBalanceTiers": [
-                0
+                0,
+                1
             ],
             "AntiFacecampPermitted": false,
             "KillerIndvPerkBans": [],
-            "KillerComboPerkBans": [],
+            "KillerComboPerkBans": [
+                [
+                    "210",
+                    "160"
+                ]
+            ],
             "SurvivorIndvPerkBans": [],
             "SurvivorComboPerkBans": [],
             "SurvivorWhitelistedPerks": [],
@@ -456,20 +463,49 @@
             "KillerWhitelistedPerks": [],
             "KillerWhitelistedComboPerks": [],
             "AddonTiersBanned": [],
-            "IndividualAddonBans": [],
-            "ItemWhitelist": [],
+            "IndividualAddonBans": [
+                40,
+                41,
+                42,
+                43,
+                44,
+                47,
+                48,
+                50,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58
+            ],
+            "ItemWhitelist": [
+                9,
+                14,
+                5,
+                0
+            ],
             "AddonWhitelist": {
                 "Firecracker": {
                     "Addons": []
                 },
                 "Flashlight": {
-                    "Addons": []
+                    "Addons": [
+                        2,
+                        4
+                    ]
                 },
                 "Med-Kit": {
-                    "Addons": []
+                    "Addons": [
+                        10,
+                        11
+                    ]
                 },
                 "Toolbox": {
-                    "Addons": []
+                    "Addons": [
+                        0,
+                        2
+                    ]
                 },
                 "Key": {
                     "Addons": []
@@ -478,25 +514,39 @@
                     "Addons": []
                 }
             },
-            "SurvivorOfferings": [],
-            "KillerOfferings": []
+            "SurvivorOfferings": [
+                0,
+                2,
+                5,
+                6
+            ],
+            "KillerOfferings": [
+                5
+            ]
         },
         {
             "Name": "The Nurse",
             "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                0
+                "30"
             ],
             "BalanceTiers": [
-                0
+                0,
+                1
             ],
             "SurvivorBalanceTiers": [
-                0
+                0,
+                1
             ],
             "AntiFacecampPermitted": false,
             "KillerIndvPerkBans": [],
-            "KillerComboPerkBans": [],
+            "KillerComboPerkBans": [
+                [
+                    "210",
+                    "160"
+                ]
+            ],
             "SurvivorIndvPerkBans": [],
             "SurvivorComboPerkBans": [],
             "SurvivorWhitelistedPerks": [],
@@ -504,20 +554,48 @@
             "KillerWhitelistedPerks": [],
             "KillerWhitelistedComboPerks": [],
             "AddonTiersBanned": [],
-            "IndividualAddonBans": [],
-            "ItemWhitelist": [],
+            "IndividualAddonBans": [
+                60,
+                61,
+                65,
+                67,
+                69,
+                70,
+                72,
+                73,
+                74,
+                75,
+                76,
+                78,
+                79
+            ],
+            "ItemWhitelist": [
+                0,
+                5,
+                14,
+                9
+            ],
             "AddonWhitelist": {
                 "Firecracker": {
                     "Addons": []
                 },
                 "Flashlight": {
-                    "Addons": []
+                    "Addons": [
+                        2,
+                        4
+                    ]
                 },
                 "Med-Kit": {
-                    "Addons": []
+                    "Addons": [
+                        10,
+                        11
+                    ]
                 },
                 "Toolbox": {
-                    "Addons": []
+                    "Addons": [
+                        0,
+                        2
+                    ]
                 },
                 "Key": {
                     "Addons": []
@@ -526,8 +604,15 @@
                     "Addons": []
                 }
             },
-            "SurvivorOfferings": [],
-            "KillerOfferings": []
+            "SurvivorOfferings": [
+                0,
+                2,
+                5,
+                6
+            ],
+            "KillerOfferings": [
+                5
+            ]
         },
         {
             "Name": "The Shape",
