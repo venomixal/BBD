@@ -617,7 +617,7 @@
         {
             "Name": "The Shape",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -665,7 +665,7 @@
         {
             "Name": "The Hag",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -713,7 +713,7 @@
         {
             "Name": "The Doctor",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -761,7 +761,7 @@
         {
             "Name": "The Huntress",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -895,7 +895,7 @@
         {
             "Name": "The Nightmare",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -1112,7 +1112,7 @@
         {
             "Name": "The Spirit",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -1160,7 +1160,7 @@
         {
             "Name": "The Legion",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -1208,7 +1208,7 @@
         {
             "Name": "The Plague",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -1427,7 +1427,7 @@
         {
             "Name": "The Oni",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -1644,7 +1644,7 @@
         {
             "Name": "The Blight",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -1692,7 +1692,7 @@
         {
             "Name": "The Twins",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -1740,7 +1740,7 @@
         {
             "Name": "The Trickster",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -2030,7 +2030,7 @@
         {
             "Name": "The Onryo",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -2323,7 +2323,7 @@
         {
             "Name": "The Skull Merchant",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -2458,7 +2458,7 @@
         {
             "Name": "The Xenomorph",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -2591,7 +2591,7 @@
         {
             "Name": "The Unknown",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
@@ -2722,7 +2722,7 @@
         {
             "Name": "The Dark Lord",
             "KillerNotes": "",
-            "IsDisabled": false,
+            "IsDisabled": true,
             "Map": [
                 0
             ],
