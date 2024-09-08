@@ -1,6 +1,6 @@
 {
     "Name": "BRL Season 3",
-    "Version": 1725807170,
+    "Version": 1725824787,
     "MaxPerkRepetition": 1,
     "GlobalNotes": "",
     "Tiers": [
@@ -833,9 +833,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
-                2,
-                3,
                 4
             ],
             "SurvivorBalanceTiers": [
@@ -967,9 +964,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
-                2,
-                3,
                 4
             ],
             "SurvivorBalanceTiers": [
@@ -1054,8 +1048,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
-                2,
                 3
             ],
             "SurvivorBalanceTiers": [
@@ -1280,8 +1272,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
-                2,
                 3
             ],
             "SurvivorBalanceTiers": [
@@ -1364,8 +1354,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
-                2,
                 3
             ],
             "SurvivorBalanceTiers": [
@@ -1499,7 +1487,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
                 2
             ],
             "SurvivorBalanceTiers": [
@@ -1577,8 +1564,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
-                2,
                 3
             ],
             "SurvivorBalanceTiers": [
@@ -1812,9 +1797,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
-                2,
-                3,
                 4
             ],
             "SurvivorBalanceTiers": [
@@ -1894,8 +1876,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
-                2,
                 3
             ],
             "SurvivorBalanceTiers": [
@@ -1979,7 +1959,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
                 2
             ],
             "SurvivorBalanceTiers": [
@@ -2102,9 +2081,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
-                2,
-                3,
                 4
             ],
             "SurvivorBalanceTiers": [
@@ -2187,7 +2163,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
                 2
             ],
             "SurvivorBalanceTiers": [
@@ -2264,8 +2239,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
-                2,
                 3
             ],
             "SurvivorBalanceTiers": [
@@ -2395,8 +2368,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
-                2,
                 3
             ],
             "SurvivorBalanceTiers": [
@@ -2530,8 +2501,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
-                2,
                 3
             ],
             "SurvivorBalanceTiers": [
@@ -2663,8 +2632,6 @@
             ],
             "BalanceTiers": [
                 0,
-                1,
-                2,
                 3
             ],
             "SurvivorBalanceTiers": [
