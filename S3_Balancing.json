@@ -1,6 +1,6 @@
 {
     "Name": "BRL Season 3",
-    "Version": 1725983830,
+    "Version": 1726824981,
     "MaxPerkRepetition": 1,
     "GlobalNotes": "",
     "Tiers": [
@@ -57,6 +57,7 @@
                 "81",
                 "84",
                 "86",
+                "88",
                 "89",
                 "90",
                 "94",
@@ -1873,7 +1874,7 @@
             "KillerNotes": "",
             "IsDisabled": false,
             "Map": [
-                "5"
+                "8"
             ],
             "BalanceTiers": [
                 0,
