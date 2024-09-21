@@ -1,6 +1,6 @@
 {
     "Name": "BRL Season 3",
-    "Version": 1726824981,
+    "Version": 1726914934,
     "MaxPerkRepetition": 1,
     "GlobalNotes": "",
     "Tiers": [
@@ -229,6 +229,7 @@
         {
             "Name": "A Tier",
             "SurvivorIndvPerkBans": [
+                "11",
                 "21",
                 "60",
                 "33",
@@ -1892,6 +1893,7 @@
             "SurvivorIndvPerkBans": [
                 "8",
                 "37",
+                "101",
                 "72"
             ],
             "SurvivorComboPerkBans": [],
