@@ -1,6 +1,6 @@
 {
     "Name": "BRL Season 3",
-    "Version": 1727457139,
+    "Version": 1727957339,
     "MaxPerkRepetition": 1,
     "GlobalNotes": "",
     "Tiers": [
@@ -146,7 +146,8 @@
                 [
                     "36",
                     "78"
-                ]
+                ],
+                []
             ],
             "KillerComboPerkBans": [
                 [
@@ -168,6 +169,10 @@
                 [
                     "167",
                     "212"
+                ],
+                [
+                    "151",
+                    "220"
                 ]
             ]
         },
