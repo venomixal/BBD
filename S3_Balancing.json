@@ -1,6 +1,6 @@
 {
 	"Name": "BRL Season 3",
-	"Version": 1730451076,
+	"Version": 1730547631,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -173,6 +173,10 @@
 				[
 					"151",
 					"220"
+				],
+				[
+					"171",
+					"184"
 				]
 			]
 		},
