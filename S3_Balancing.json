@@ -1,6 +1,6 @@
 {
 	"Name": "Blood Rush League",
-	"Version": 1732890034,
+	"Version": 1732951823,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2199,7 +2199,6 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				564,
 				568,
 				570,
 				571,
