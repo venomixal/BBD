@@ -1,6 +1,6 @@
 {
 	"Name": "Blood Rush League",
-	"Version": 1732951823,
+	"Version": 1733133199,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -559,7 +559,7 @@
 		{
 			"Name": "The Nurse",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"30"
 			],
@@ -2596,15 +2596,18 @@
 		{
 			"Name": "The Unknown",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"8"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1,
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2616,14 +2619,34 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				680,
+				683,
+				684,
+				685,
+				686,
+				687,
+				688,
+				692,
+				693,
+				695,
+				696,
+				697,
+				698
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2638,8 +2661,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Lich",
