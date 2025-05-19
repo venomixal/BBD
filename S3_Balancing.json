@@ -896,7 +896,7 @@
 		{
 			"Name": "The Trapper",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -1652,7 +1652,7 @@
 		{
 			"Name": "The Pig",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -1856,7 +1856,7 @@
 		{
 			"Name": "The Legion",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -1904,7 +1904,7 @@
 		{
 			"Name": "The Plague",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -2109,7 +2109,7 @@
 		{
 			"Name": "The Oni",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -2234,7 +2234,7 @@
 		{
 			"Name": "The Executioner",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -2451,7 +2451,7 @@
 		{
 			"Name": "The Trickster",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -2499,7 +2499,7 @@
 		{
 			"Name": "The Nemesis",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -2547,7 +2547,7 @@
 		{
 			"Name": "The Cenobite",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -2746,7 +2746,7 @@
 		{
 			"Name": "The Dredge",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -2870,7 +2870,7 @@
 		{
 			"Name": "The Knight",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -3079,7 +3079,7 @@
 		{
 			"Name": "The Xenomorph",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
