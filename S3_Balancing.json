@@ -1,5 +1,5 @@
 {
-	"Name": "BloodRush League S3",
+	"Name": "Blood Rush League",
 	"Version": 1762939035,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
@@ -174,7 +174,7 @@
 			]
 		},
 		{
-			"Name": "Tier S",
+			"Name": "Tier 1",
 			"SurvivorIndvPerkBans": [
 				"0",
 				"5",
@@ -339,7 +339,7 @@
 			]
 		},
 		{
-			"Name": "Tier A",
+			"Name": "Tier 2",
 			"SurvivorIndvPerkBans": [
 				"0",
 				"5",
@@ -529,7 +529,7 @@
 			]
 		},
 		{
-			"Name": "Tier B",
+			"Name": "Tier 3",
 			"SurvivorIndvPerkBans": [
 				"92",
 				"0",
@@ -724,7 +724,7 @@
 			]
 		},
 		{
-			"Name": "Tier C",
+			"Name": "Tier 4",
 			"SurvivorIndvPerkBans": [
 				"0",
 				"1",
