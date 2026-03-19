@@ -1,12 +1,13 @@
 {
 	"Name": "Blood Rush League",
-	"Version": 1773835433,
+	"Version": 1773945462,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
 		{
 			"Name": "General",
 			"SurvivorIndvPerkBans": [
+				"306",
 				"0",
 				"285",
 				"5",
@@ -308,6 +309,7 @@
 				"280",
 				"46",
 				"261",
+				"308",
 				"294",
 				"54",
 				"57",
@@ -403,6 +405,7 @@
 				"303",
 				"46",
 				"261",
+				"308",
 				"50",
 				"51",
 				"294",
@@ -487,6 +490,7 @@
 				"44",
 				"46",
 				"261",
+				"308",
 				"50",
 				"51",
 				"294",
@@ -2130,11 +2134,11 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				444,
-				450,
 				455,
 				457,
-				458
+				458,
+				456,
+				449
 			],
 			"ItemWhitelist": [
 				0,
