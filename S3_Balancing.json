@@ -1,6 +1,6 @@
 {
 	"Name": "Blood Rush League",
-	"Version": 1782401468,
+	"Version": 1788020853,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -20,6 +20,7 @@
 				"18",
 				"247",
 				"19",
+				"318",
 				"20",
 				"73",
 				"22",
@@ -36,6 +37,7 @@
 				"267",
 				"46",
 				"49",
+				"319",
 				"262",
 				"55",
 				"274",
@@ -57,6 +59,7 @@
 				"86",
 				"90",
 				"98",
+				"320",
 				"99",
 				"100",
 				"103",
@@ -82,6 +85,7 @@
 				"136",
 				"138",
 				"140",
+				"315",
 				"146",
 				"147",
 				"149",
@@ -105,12 +109,14 @@
 				"182",
 				"183",
 				"243",
+				"316",
 				"185",
 				"186",
 				"265",
 				"188",
 				"194",
 				"256",
+				"317",
 				"195",
 				"196",
 				"199",
@@ -3509,6 +3515,57 @@
 			"Name": "The Slasher",
 			"KillerNotes": "",
 			"IsDisabled": true,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Judgment",
+			"KillerNotes": "",
+			"IsDisabled": false,
 			"Map": [
 				0
 			],
